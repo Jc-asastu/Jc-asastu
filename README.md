@@ -1,20 +1,40 @@
-# Juan Cruz Maisu
+# Juan Cruz Maisú
 
-I build instruments, mostly, and lately that means audio plugins instead of Rust crates.
+I like finding the way through a problem.
 
-## Now
+Through it, not around it. I learn by building a thing, breaking it on
+purpose, and putting it back together until I understand why it holds.
+That habit is most of what I do.
 
-I'm in a self-directed musical phase: producing darkpsy and building the tools to do it with. The centerpiece right now is **[ÉTER PRISMA](https://github.com/Jc-asastu/eter-prisma)** ([v1.0.2](https://github.com/Jc-asastu/eter-prisma/releases/tag/v1.0.2)), a spectral dispersion plugin with an exact group-delay curve — every frequency arrives with its own delay, drawn as a curve and rendered as a real FIR kernel, not approximated through allpass chains. VST3 and CLAP, free, GPL-3.0. The GUI is an optical bench: a living prism, a particle spectrometer, a phosphor scope. It's the first device in what I'm calling ÉTER, a small family of instruments I'm building one at a time.
+## What I build
 
-Motor de producción propio corriendo en paralelo, hecho a mano, a mi manera.
+On-chain systems, mostly.
 
-## Research
+Perpetual futures DEXes, agent wallets with human oversight, the plumbing
+for a world where software starts to transact on its own. I work across
+Solana (Rust, Anchor) and EVM (Solidity, Foundry), with TypeScript holding
+the stack together. Deployed to mainnet, with the tests and audits to match.
 
-Music didn't replace the research, it reframed where the attention goes. **[Hermetic Computing](https://github.com/Jc-asastu/kybalion)** is a Rust framework reading the Seven Hermetic Principles as cryptographic and quantum-computing concepts — homomorphism, DFT, qubits, involutions, mapped rather than mystified. Alongside it, **[Opus](https://github.com/Jc-asastu/opus)** documents the forty-six days it took to go from zero programming experience to that framework, in collaboration with an AI. Not a tutorial, an account.
+I read a system for its failure modes before its features. A settlement
+gate, a stream cipher, a filter kernel, the part worth understanding is
+always where it breaks.
 
-## How I work
+## What I research
 
-I build with AI as a working instrument, the way anyone building today does. Autodidact, no CS background, portfolio instead of degree. I read systems for their failure modes before I read them for their function, whether the system is a filter kernel or a stream cipher.
+The verification gap in decentralized machine learning.
+
+[Proof of Context](https://github.com/Jc-asastu/proof-of-context) names the
+distance between a computation being correct and being contextually
+appropriate, and borrows its shape from the way DeFi oracles go stale. Two
+papers, a Rust reference implementation, real cryptography underneath.
+
+## Off the clock
+
+I build instruments when the code stops for the day.
+
+[ÉTER PRISMA](https://github.com/Jc-asastu/eter-prisma), a spectral
+dispersion audio plugin, is the first of a small family I am making one at a
+time. Same instinct, different material.
 
 ## Contact
 
